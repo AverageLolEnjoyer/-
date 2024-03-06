@@ -42,6 +42,7 @@ def insertion_sort(arr):
 
 for i in range(n):
     arr[i] = insertion_sort(arr[i])
+
 print("Сортировка вставкой--- {0} ms ---".format(round((time.time() - start_time)*1000)))
 
 #Сортировка выбором

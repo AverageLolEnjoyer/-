@@ -1,0 +1,13 @@
+Номер заказа;Дата заказа;Название товара;Категория товара;Количество продаж;Цена за единицу;Общая стоимость
+6;01.02.2023;Toyota Camry;Petrol;500;156;78000
+9;10.03.2021;Honda Civic;Petrol;500;200;100000
+11;01.03.2024;Ford F-150;Petrol;300;12;3600
+4;01.01.2022;Tesla Model S;electric;200;32;6400
+5;03.05.2022;Honda Accord;hybrid;200;142;28400
+8;02.01.2022;Toyota RAV4;Petrol;150;123;18450
+1;05.02.2024;Chevrolet Silverado;Petrol;100;54;5400
+3;03.10.2023;Nissan Leaf;electric;100;753;75300
+7;02.02.2022;Honda Pilot ;hybrid;100;432;43200
+2;08.07.2021;Toyota Prius;Petrol;50;123;6150
+10;06.03.2022;Ford Mustang;hybrid;50;143;7150
+12;09.04.2022;Hyundai Tucson;Petrol;25;1234;30850
